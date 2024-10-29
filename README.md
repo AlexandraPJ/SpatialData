@@ -1,6 +1,7 @@
 # SpatialData
 ## Analysis of positive COVID-19 diagnosis in Peru (2020-2024)
 This project graphically analyzes the spread of COVID-19 in Peru between 2020 and 2024 using georeferenced data. Spatial correlation, local spatial correlation, and local bivariate spatial correlation are conducted
+The positive COVID-19 data can be downloaded from the gobernment website: https://www.datosabiertos.gob.pe/dataset/casos-positivos-por-covid-19-ministerio-de-salud-minsa
 
 ## Dictionary of Variables
 | Variable              | Description                                                                                                       |
