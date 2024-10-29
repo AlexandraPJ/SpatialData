@@ -28,3 +28,5 @@ The positive COVID-19 data can be downloaded from the gobernment website: https:
 |LISACOVID_BV_21_22     |Represents the results of the Local Bivariate Moran's I analysis for COVID-19 cases in 2021 and 2022               |
 |LISACOVID_BV_22_23     |Represents the results of the Local Bivariate Moran's I analysis for COVID-19 cases in 2022 and 2023               |
 |LISACOVID_BV_23_24     |Represents the results of the Local Bivariate Moran's I analysis for COVID-19 cases in 2023 and 2024               |
+
+https://alexandrapj.github.io/SpatialData/Spatial%20Data%20COVID%20(4).html
